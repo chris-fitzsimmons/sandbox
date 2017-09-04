@@ -10,3 +10,13 @@
 /WebApi/obj
 /WebApi/bin/Debug/netcoreapp1.1
 /Api/obj/Debug/netstandard1.6
+/WebApi2/bin
+/WebApi2/obj/Debug
+/packages/Microsoft.AspNet.WebApi.WebHost.5.2.3
+/packages/Microsoft.AspNet.WebPages.3.2.3
+/packages/NuGet.CommandLine.4.3.0
+/packages/Microsoft.AspNet.WebApi.Client.5.2.3
+/packages/Microsoft.AspNet.WebApi.Core.5.2.3
+/packages/Microsoft.AspNet.WebApi.5.2.3
+/packages/Microsoft.AspNet.WebApi.HelpPage.5.2.3
+/packages
