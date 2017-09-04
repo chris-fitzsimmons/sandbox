@@ -1,8 +1,9 @@
 ﻿using System;
 
+
 namespace Api
 {
-    public class Class1
+    public class UsersController
     {
     }
 }
