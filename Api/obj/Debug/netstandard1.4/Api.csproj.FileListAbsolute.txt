@@ -1,0 +1,7 @@
+D:\Development\Solutions\Sandbox\Api\bin\Debug\netstandard1.4\Api.deps.json
+D:\Development\Solutions\Sandbox\Api\bin\Debug\netstandard1.4\Api.dll
+D:\Development\Solutions\Sandbox\Api\bin\Debug\netstandard1.4\Api.pdb
+D:\Development\Solutions\Sandbox\Api\obj\Debug\netstandard1.4\Api.csprojResolveAssemblyReference.cache
+D:\Development\Solutions\Sandbox\Api\obj\Debug\netstandard1.4\Api.AssemblyInfo.cs
+D:\Development\Solutions\Sandbox\Api\obj\Debug\netstandard1.4\Api.dll
+D:\Development\Solutions\Sandbox\Api\obj\Debug\netstandard1.4\Api.pdb

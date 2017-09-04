@@ -1,0 +1,5 @@
+D:\Development\Solutions\Sandbox\BussinessServices\bin\Debug\BussinessServices.dll
+D:\Development\Solutions\Sandbox\BussinessServices\bin\Debug\BussinessServices.pdb
+D:\Development\Solutions\Sandbox\BussinessServices\obj\Debug\BussinessServices.csprojResolveAssemblyReference.cache
+D:\Development\Solutions\Sandbox\BussinessServices\obj\Debug\BussinessServices.dll
+D:\Development\Solutions\Sandbox\BussinessServices\obj\Debug\BussinessServices.pdb

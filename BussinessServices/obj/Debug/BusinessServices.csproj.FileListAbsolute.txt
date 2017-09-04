@@ -1,0 +1,4 @@
+D:\Development\Solutions\Sandbox\BussinessServices\bin\Debug\Sandbox.BusinessServices.dll
+D:\Development\Solutions\Sandbox\BussinessServices\bin\Debug\Sandbox.BusinessServices.pdb
+D:\Development\Solutions\Sandbox\BussinessServices\obj\Debug\Sandbox.BusinessServices.dll
+D:\Development\Solutions\Sandbox\BussinessServices\obj\Debug\Sandbox.BusinessServices.pdb
